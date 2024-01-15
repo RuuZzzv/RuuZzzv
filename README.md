@@ -10,7 +10,7 @@
   <a href="https://twitter.com/SDFRPE"><img alt="Twitter" src="https://img.shields.io/badge/Shande-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white"></a>
 </p>
 
-¡Bienvenido a mi perfil de GitHub! Mi nombres **Shande**, y soy un desarrollador de **Perú**. Tengo más experiencia en **desarrollo de backend**, pero también me interesa el trabajo en el frontend. 
+¡Bienvenido a mi perfil de GitHub! Mi nombre es **Shande**, y soy un desarrollador de **Perú**. Tengo más experiencia en **desarrollo de backend**, pero también me interesa el trabajo en el frontend. 
 <!--
 ![shande](https://user-images.githubusercontent.com/28309837/236696167-c77140ab-5900-4e49-b1ec-152c8092cd75.png)
 
